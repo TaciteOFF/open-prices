@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.109.0](https://github.com/openfoodfacts/open-prices/compare/v1.108.1...v1.109.0) (2026-08-01)
+
+
+### Features
+
+* **Proofs:** Skip proof type prediction when no available Triton server ([#1347](https://github.com/openfoodfacts/open-prices/issues/1347)) ([4257581](https://github.com/openfoodfacts/open-prices/commit/42575810e80da19f767a42ea757708a4f79b8d87))
+
+
+### Bug Fixes
+
+* add permissions to top-issues GitHub Actions ([#1402](https://github.com/openfoodfacts/open-prices/issues/1402)) ([cac8502](https://github.com/openfoodfacts/open-prices/commit/cac8502802e88fcfee592a152be055c1b063e654))
+* **CI:** Add permissions on quality-check Github Action ([#1405](https://github.com/openfoodfacts/open-prices/issues/1405)) ([e8b51c8](https://github.com/openfoodfacts/open-prices/commit/e8b51c8ae2791ff6f4a40ebc1f27d551c41e2a7d))
+* **CI:** add permissions to 'semantic PRs' GitHub Action ([#1403](https://github.com/openfoodfacts/open-prices/issues/1403)) ([6b72738](https://github.com/openfoodfacts/open-prices/commit/6b727384b70ec33ace93071fa4abfd4ccbd805de))
+* **ci:** add permissions to pre-commit Github Action ([#1408](https://github.com/openfoodfacts/open-prices/issues/1408)) ([18bfabd](https://github.com/openfoodfacts/open-prices/commit/18bfabd1917349b7274086bd54a0f14634eec3eb))
+
+
+### Technical
+
+* **deps:** update pillow to 12.3.0 ([#1401](https://github.com/openfoodfacts/open-prices/issues/1401)) ([12e77bc](https://github.com/openfoodfacts/open-prices/commit/12e77bcff5bb467fa7392cb5587cfa191707a720))
+
 ## [1.108.1](https://github.com/openfoodfacts/open-prices/compare/v1.108.0...v1.108.1) (2026-07-19)
 
 
